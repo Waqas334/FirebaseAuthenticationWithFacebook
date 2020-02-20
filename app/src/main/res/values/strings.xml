@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learning Firebase Auth UI</string>
+    <string name="facebook_app_id">785221848630686</string>
+    <string name="fb_login_protocol_scheme">fb785221848630686</string>
+
+
+</resources>

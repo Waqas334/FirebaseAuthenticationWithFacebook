@@ -1,0 +1,291 @@
+{
+  "project_info": {
+    "project_number": "505192300067",
+    "firebase_url": "https://testing-here-bb3eb.firebaseio.com",
+    "project_id": "testing-here-bb3eb",
+    "storage_bucket": "testing-here-bb3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:6a340b3768b675a88e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-s0jargqp08p0t0o5e07vj4cpvev95kqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.authdemo",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:c17dcdfa8aaa494f8e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.firebasetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-3mhgctd6dcthvpkcov6kj1o36oohde35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.firebasetutorials",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:d32d34e920773a188e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.learningcloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-omgs00k6n5pb1uth402l7lq70vlo4acn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.learningcloudstorage",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:34a591de6225babd8e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.learningfirebaseauthui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-knj9ugpg0t3trasf1oha7lugvfcnhp3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.learningfirebaseauthui",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:3b1f90fc5bac8e638e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.learnjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-l8q3bemkt5us3g9tlls9u5mbd4epj8o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.learnjava",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:e8112df70a3714af8e3b96",
+        "android_client_info": {
+          "package_name": "com.androidbull.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-6a99h77q4qi1c63ea4g022kp1ajippk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidbull.myapplication",
+            "certificate_hash": "b28c83d0709b5a026b2c4d16eb0a7aace54aa9d2"
+          }
+        },
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:4b493d0bae44d2c2",
+        "android_client_info": {
+          "package_name": "com.androidbull.mypronounce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505192300067:android:acc8edb7515cfa26",
+        "android_client_info": {
+          "package_name": "com.androidbull.mypronounce.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasd6GSWu0prIu6Q9qY0r5sAYDbOdk058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505192300067-4vunt8li3uoc1ruq5j7jfs6bg66ok4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
